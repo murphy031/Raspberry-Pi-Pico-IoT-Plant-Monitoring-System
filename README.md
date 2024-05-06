@@ -43,7 +43,7 @@ Once the system is set up and running:
 
 ## Wiring Diagram
 
-![Image Description](Screenshot (45).png)
+![Image Description](wiring_diagram.png)
 
 ## License
 
