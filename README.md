@@ -41,6 +41,10 @@ Once the system is set up and running:
 - ssd1306 library
 - urequests library (for HTTP requests)
 
+## Wiring Diagram
+
+![Image Description](Screenshot.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
