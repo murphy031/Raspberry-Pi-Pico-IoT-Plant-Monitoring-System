@@ -47,7 +47,7 @@ Once the system is set up and running:
 
 ## Wiring Diagram
 
-![Image Description](wiring_diagram.png)
+![Image Description](wiring_diagram.jpg)
 
 ## 3D print files
 - The original 3D print design by [Qrome](https://www.thingiverse.com/thing:3573903) served as the basis, modified to accommodate a small solder board and all the sensors.
