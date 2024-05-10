@@ -41,9 +41,19 @@ Once the system is set up and running:
 - ssd1306 library
 - urequests library (for HTTP requests)
 
+## Completed Project
+
+![Image Description](3d_print.png)
+
 ## Wiring Diagram
 
 ![Image Description](wiring_diagram.png)
+
+## 3D print files
+- The original 3D print design by [Qrome](https://www.thingiverse.com/thing:3573903) served as the basis, modified to accommodate a small solder board and all the sensors.
+
+- [Print File 1](case.stl)
+- [Print File 1](back.stl)
 
 ## License
 
